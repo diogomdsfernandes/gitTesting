@@ -20,6 +20,7 @@ namespace gitTesting
         private void Form1_Load(object sender, EventArgs e)
         {
             label1.Text = "2º commit";
+            label2.Text = "3º commit";
         }
     }
 }

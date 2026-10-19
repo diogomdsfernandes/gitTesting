@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{200A87F1-B6EE-4E06-A0A1-F729D71B3D08}|gitTesting\\gitTesting.csproj|solutionrelative:gittesting\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{200A87F1-B6EE-4E06-A0A1-F729D71B3D08}|gitTesting\\gitTesting.csproj|c:\\users\\fernas\\source\\repos\\gittesting\\gittesting\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{200A87F1-B6EE-4E06-A0A1-F729D71B3D08}|gitTesting\\gitTesting.csproj|C:\\Users\\fernas\\source\\repos\\gitTesting\\gittesting\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{200A87F1-B6EE-4E06-A0A1-F729D71B3D08}|gitTesting\\gitTesting.csproj|solutionrelative:gittesting\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "gitTesting\\Form1.cs",
               "ToolTip": "C:\\Users\\fernas\\source\\repos\\gitTesting\\gitTesting\\Form1.cs",
               "RelativeToolTip": "gitTesting\\Form1.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBYAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-19T11:08:53.182Z",
               "EditorCaption": ""
@@ -42,8 +42,7 @@
               "ToolTip": "C:\\Users\\fernas\\source\\repos\\gitTesting\\gitTesting\\Form1.cs [Design]",
               "RelativeToolTip": "gitTesting\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-19T10:34:40.24Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-10-19T10:34:40.24Z"
             }
           ]
         }
